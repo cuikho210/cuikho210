@@ -1,12 +1,11 @@
 ### Xin chào! 🥰
 
-Mình là Sinh,
-Cũng chẳng biết viết gì ở đây luôn, nên thôi đành để vậy
+Mình là Sinh
 
-
+<br /><br />
 <p align='center'>
-	<img src='https://mtlkms.ml/data/icons/512.png' alt='Vịt Chúa' title='Vịt Chúa Ahihi'>
+	<img src='https://cuikho.cf/user/cuikho210/avatar' alt='cuikho210'>
 </p>
 
 
-Mấy cái repo cứ phải để private vì lỡ để cả password hosting database bla bla bên trong rồi, muốn public ra cho đỡ trống trải nhưng mà không được, ahihi
+> Vịt con mới sinh còn ngơ ngác
