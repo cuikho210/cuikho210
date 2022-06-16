@@ -7,5 +7,6 @@ Mình là Sinh
 	<img src='https://cuikho.cf/user/cuikho210/avatar' alt='cuikho210'>
 </p>
 
-
-> Vịt con mới sinh còn ngơ ngác
+> 📧 tonykms210@gmail.com  
+> 🏙️ Hanoi  
+> 🦆 Vịt con mới sinh còn ngơ ngác
