@@ -4,7 +4,7 @@ Mình là Sinh
 
 <br /><br />
 <p align='center'>
-	<img src='https://vitcon.cf/user/cuikho210/avatar' alt='cuikho210'>
+	<img src='https://mtlkms.vitcon.cf/user/cuikho210/avatar' alt='cuikho210'>
 </p>
 
 > 📧 tonykms210@gmail.com  
